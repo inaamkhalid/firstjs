@@ -1,0 +1,10 @@
+.inaam{
+
+    background: linear-gradient(pink,purple);
+    height: 30px;
+    align-items: center;
+    width: 100px ;
+    border-radius:5px ;
+    padding: 7px 10px 0px;
+    font-weight: 800;
+}
